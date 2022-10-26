@@ -1,0 +1,22 @@
+.img-logo {
+    background-color: dark; 
+}
+
+.list-group {
+    --bs-list-group-bg: transparent;
+}
+
+.login {
+    height: 75vh;
+
+}
+
+.formulario-login{
+    margin-top: 12%;
+}
+
+.perfil {
+    width: 70%;
+}
+
+
